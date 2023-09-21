@@ -9,9 +9,12 @@
 1. Es para clase
 ____________________________________________________________________________________________________________________
 > [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+> Esto es un aviso.
 
 
 
-**Este texto está en negrita**
-*Este, en cambio, en cursiva*
+**Este texto está en negrita.**
+
+
+
+*Este, en cambio, en cursiva.*
